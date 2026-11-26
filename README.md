@@ -19,7 +19,7 @@ Three high-fidelity mobile screens (390x844) designed in Figma:
 - Color Styles and Text Styles applied (Inter font)
 
 ### Tools
-Figma. A first draft was generated with Figma's AI agent, then reviewed and refined by me.
+Figma. 
 
 ## Task 2: Design System and Component Library
 Coming soon
